@@ -68,7 +68,7 @@ public class ShapeDmd {
         myRect.getCoord(5, 10);
         myRect1.getCoord(10);
 
-        r = myRect.showCoord(); // Doesn't work
+        // r = myRect.showCoord(); // Doesn't work
 
     }
 }
